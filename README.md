@@ -10,5 +10,6 @@ Mengambil data dari KBBI online dengan Web scraping.
 
 ```shell
 mkdir ~/bin
+echo "export PATH=$PATH:$HOME/bin" >> .bashrc
 make
 ```
